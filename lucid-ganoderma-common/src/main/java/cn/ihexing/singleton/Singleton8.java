@@ -3,6 +3,7 @@ package cn.ihexing.singleton;
 /**
  * ʚ•⚇•ɞ
  *
+ *
  * @Description:
  * @author: Hexing
  * @contact: Hx@IHexing.cn
